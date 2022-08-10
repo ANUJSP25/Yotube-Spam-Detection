@@ -1,9 +1,6 @@
-google_api_python_client==2.33.0
-google_auth_oauthlib==0.4.6
-protobuf==3.19.1
-colorama==0.4.4
-rtfunicode==2.0
-certifi>=2021.10.8
-six>=1.16.0
-python-Levenshtein>=0.12.2
-regex>=2022.1.18
+Flask==1.1.1
+gunicorn==20.0.4
+pandas==0.25.2
+scikit-learn==0.23.2
+numpy==1.17.3
+sklearn==0.0
